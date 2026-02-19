@@ -1,4 +1,4 @@
-package com.duoc.consumidorubicacion.model; // Ajusta a tu paquete real
+package com.duoc.consumidorubicacion.model;
 
 public class UbicacionDto {
     
