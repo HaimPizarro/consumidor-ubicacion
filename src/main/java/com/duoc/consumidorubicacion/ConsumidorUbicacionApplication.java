@@ -9,4 +9,5 @@ public class ConsumidorUbicacionApplication {
     public static void main(String[] args) {
         SpringApplication.run(ConsumidorUbicacionApplication.class, args);
     }
+
 }
